@@ -1,0 +1,37 @@
+body {
+    background-color: #00aa2d;
+}
+
+h1 {
+    color: white;
+}
+
+.image img {
+    padding: 10px;
+    border: 1px solid black;
+    border: 3px solid #00aa2d;
+    width: 200px;
+    height: 150px;
+}
+
+th, td {
+    text-align: left;
+    border: 1px solid black;
+    padding: 15px;
+  }
+
+th {
+    text-align: center;
+}
+
+
+table {
+    width: 600px;
+    border-collapse: collapse;
+    background-color: lightgreen;
+}
+
+caption {
+    caption-side: bottom;
+    color: white;
+}
